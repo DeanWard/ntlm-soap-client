@@ -1,5 +1,5 @@
 {
-    "name": "DeanWard/ntlm-soap-client",
+    "name": "deanward/ntlm-soap-client",
     "type": "library",
     "description": "PHP WDSL/Soap Client with NTLM Authentication for Microsoft Dynamics NAT Server.",
     "keywords": [
